@@ -1,0 +1,31 @@
+{
+  "name": "medichain",
+  "version": "1.0.0",
+  "description": "Decentralized Health Record System.",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coding-wizard-77/medichain-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coding-wizard-77/medichain-repo/issues"
+  },
+  "homepage": "https://github.com/Coding-wizard-77/medichain-repo#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+    "hardhat": "^2.25.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.1"
+  }
+}
