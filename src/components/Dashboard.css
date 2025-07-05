@@ -1,0 +1,50 @@
+.dashboard {
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 20px;
+  background-color: #fafafa;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ddd;
+  font-family: sans-serif;
+}
+
+.dashboard h2 {
+  color: #1a237e;
+  margin-bottom: 20px;
+}
+
+.dashboard-section {
+  margin-top: 20px;
+}
+
+.doc-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.doc-list li {
+  background-color: #eef2f7;
+  margin-bottom: 10px;
+  padding: 12px;
+  border-left: 4px solid #1a237e;
+}
+
+.upload-btn{
+  background-color: #00bcd4;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.upload-btn:hover{
+  background-color: #0097a7;
+}
+
+.upload-btn:hover {
+  background-color: #303f9f;
+}
